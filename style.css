@@ -1,4 +1,7 @@
-body {
+body{
+    background-color: #ffffff;
+}
+main {
     text-align: center;
     background: #ffffff;
 }
@@ -9,4 +12,10 @@ body {
 .capa{
     width: 40%;
 height: 100%;
+}
+.beneficios{
+    background-color: #ffffff;
+}
+.foto-beneficios{
+    width: 40%;
 }
