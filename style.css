@@ -15,7 +15,19 @@ height: 100%;
 }
 .beneficios{
     background-color: #ffffff;
+    display: inline-block
+}
+ul{
+    display: inline-block;
+    vertical-align: top;
+
+}
+li{
+    padding: 10px;
+    margin: 10px;
 }
 .foto-beneficios{
-    width: 40%;
+    width: 30%;
+    text-align:right;
+    padding: 10px;
 }
