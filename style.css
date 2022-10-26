@@ -1,10 +1,12 @@
 body{
     background-color: #ffffff;
+    margin: 0 auto;
 }
 main {
     text-align: center;
     background: #ffffff;
 }
+   
 #slogan{
     font-size: 50px5;
 }
@@ -26,8 +28,15 @@ li{
     padding: 10px;
     margin: 10px;
 }
+.foto-logo{
+    width: 100px;
+    margin-left: 180px;
+    border-radius: 100%;
+}
 .foto-beneficios{
     width: 30%;
     text-align:right;
     padding: 10px;
+    border-radius: 15px;
+box-shadow: 2px 2px 5px #000000;
 }
