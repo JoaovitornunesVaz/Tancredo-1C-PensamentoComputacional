@@ -33,10 +33,29 @@ li{
     margin-left: 180px;
     border-radius: 100%;
 }
+nav {
+      position: absolute;
+      top: 90px;
+      right: 65px;
+}
+nav a{
+     font-size: 25px;
+     text-decoration: none;
+     text-transform: uppercase;
+     padding-left: 20px;
+     color: #000000;
+}
+nav a:hover{
+    font-size: 22px;
+    font-weight: bold;
+    text-shadow: 2px 3px 5px #000000;
+}
+}
 .foto-beneficios{
     width: 30%;
     text-align:right;
     padding: 10px;
     border-radius: 15px;
 box-shadow: 2px 2px 5px #000000;
+transition: 0.8s;
 }
